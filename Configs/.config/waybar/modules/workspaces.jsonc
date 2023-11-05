@@ -1,6 +1,6 @@
     "hyprland/workspaces": {
-        "disable-scroll": true,
-        "all-outputs": true,
+        "disable-scroll": false,
+        "all-outputs": false,
         "active-only": false,
         "on-click": "activate",
         "persistent-workspaces": {
